@@ -1,3 +1,4 @@
+site_url: https://imaginaryradiostations.netlify.app
 backend:
   name: github
   repo: christiankopac/imaginaryradiostations.com

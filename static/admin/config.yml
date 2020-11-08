@@ -1,5 +1,7 @@
+site_url: https://imaginaryradiostations.netlify.app
 backend:
-  name: git-gateway
+  name: github
+  repo: christiankopac/imaginaryradiostations.com
   branch: master
 
 media_folder: static/img
